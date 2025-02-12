@@ -105,3 +105,15 @@ This repository contains the assignments completed during my training at Capgemi
 - **Topics Covered**:
   - Inheritance in Java: Covered types of inheritance, method overriding, and super keyword usage.
 - **Assignment**: Submitted assignment on Inheritance in Java.
+
+### 10/02/25
+
+- **Topics Covered**:
+  - - Single Linked List, Double Linked List, Circular Linked List
+- **Assignment**: Submitted assignment on LinkedList in Java.
+
+  ### 12/02/25
+
+- **Topics Covered**:
+  - - Single Linked List, Double Linked List, Circular Linked List
+- **Assignment**: Submitted assignment on LinkedList in Java.
