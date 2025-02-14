@@ -117,3 +117,21 @@ This repository contains the assignments completed during my training at Capgemi
 - **Topics Covered**:
   - - Single Linked List, Double Linked List, Circular Linked List
 - **Assignment**: Submitted assignment on LinkedList in Java.
+
+  ### 13/02/25
+
+- **Topics Covered**:
+  - Stacks, Queues
+- **Assignment**: Submitted assignment on Stacks, Queues in Java.
+
+  ### 14/02/25
+
+- **Topics Covered**:
+  - Bubble Sort
+  - Counting Sort
+  - Heap Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+- **Assignment**: Submitted assignment on Sorting in Java.
