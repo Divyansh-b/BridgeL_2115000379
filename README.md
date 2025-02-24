@@ -140,3 +140,15 @@ This repository contains the assignments completed during my training at Capgemi
 
 -**Topics Coevered**:
   -Searching
+
+### 22/02/2025
+
+-**Topics Coevered**:
+  - Regex
+  - JUnits
+
+### 24/02/2025
+
+-**Topics Coevered**:
+  - Annotations
+  - Reflections
